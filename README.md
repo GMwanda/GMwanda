@@ -6,8 +6,7 @@
 - 🐍 I also work on Python-based projects.
 - 🌱 I’m currently learning advanced web development techniques and machine learning.
 - 💬 Ask me about web development, Laravel, or Python.
-- 📫 How to reach me: george@example.com (replace with your actual email)
-- ⚡ Fun fact: I enjoy solving complex algorithms and exploring new technologies in my free time.
+- 📫 How to reach me: mwandajosiah@gmail.com
 
 ## Skills
 - **Programming Languages**: Python, PHP, JavaScript
