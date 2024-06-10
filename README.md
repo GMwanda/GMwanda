@@ -1,23 +1,21 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm George 👋
 
 ## About Me
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-## Projects
-### Project 1
-[Project 1 Repository](https://github.com/yourusername/project1)  
-Description of project 1.
-
-### Project 2
-[Project 2 Repository](https://github.com/yourusername/project2)  
-Description of project 2.
+- 🎓 I’m a 4th year student at Strathmore University studying Informatics and Computer Science.
+- 🌐 Most of my projects are web-based, primarily using Laravel.
+- 🐍 I also work on Python-based projects.
+- 🌱 I’m currently learning advanced web development techniques and machine learning.
+- 💬 Ask me about web development, Laravel, or Python.
+- 📫 How to reach me: george@example.com (replace with your actual email)
+- ⚡ Fun fact: I enjoy solving complex algorithms and exploring new technologies in my free time.
 
 ## Skills
-- Programming Languages: ...
-- Tools and Technologies: ...
-- Frameworks: ...
+- **Programming Languages**: Python, PHP, JavaScript
+- **Web Technologies**: HTML, CSS, Laravel
+- **Databases**: MySQL, SQLite, MongoDB
+- **Tools and Technologies**: Git, Docker, RESTful APIs
+- **Frameworks**: Laravel
+- **Other Skills**: Data Analysis, Machine Learning, Algorithms
+
+## Connect with Me
+- Email: mwandajosiah@gmail.com
